@@ -7,5 +7,6 @@
 해당 사항을 코드 내에 주석으로 명시하고 있습니다.
 <br><br>
 백준의 서비스 종료로 인해 더 이상 다루지 않게 되었습니다.
+-> 백준 서비스 재개로 다시 활성화 되었습니다.
 
-<img src="https://github.com/RayneServer/solved-archive-study/blob/master/BOJ%20memory%20-%20livecode.png" />
+<img src="https://github.com/LYVUS/solved-archive-study/blob/master/BOJ%20memory%20-%20livecode.png" />
